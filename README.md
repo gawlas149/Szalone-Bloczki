@@ -1,2 +1,3 @@
 # Szalone-Bloczki
-Projekt szalone bloczki
+Projekt na Inżynierię Oprogramowania
+Szalone Bloczki
